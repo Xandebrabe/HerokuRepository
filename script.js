@@ -1,5 +1,5 @@
 ﻿// USADO COM app_713.js
-api = 'https://andre-braga-app-713.herokuapp.com';
+api = 'https://alexandre-firstone.herokuapp.com/';
 $(document).ready(() => {
     $("#bt1").click(function(e){
         usersx.list();
